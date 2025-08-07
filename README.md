@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Vishwa Pand I'm a passionate Computer Science Student  from Tamil Nadu,India</h2>
+<h2 align="left">Hi 👋! My name is  Vishwa P and I'm a passionate Computer Science Student  from Tamil Nadu,India</h2>
 
 ###
 
